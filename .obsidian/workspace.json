@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d3edd00149597319",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc8ccfd5228318c0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "React"
             }
           }
         ]
@@ -115,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,11 +185,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8ccfd5228318c0",
+  "active": "a1cc9a7d4b820b18",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "React.md",
+    "Untitled.base",
+    "auto-sync.py"
   ]
 }
