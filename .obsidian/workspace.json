@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/JavaScript/DOM.md",
+                "file": "Cursos/JavaScript/Document Object Model (DOM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM"
+              "title": "Document Object Model (DOM)"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "72ec92e553c8bacf",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/JavaScript/DOM.md",
+                "file": "Cursos/JavaScript/Document Object Model (DOM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/JavaScript/DOM.md",
+                "file": "Cursos/JavaScript/Document Object Model (DOM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/JavaScript/DOM.md",
+                "file": "Cursos/JavaScript/Document Object Model (DOM).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,10 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e6f547b3514a58e",
+  "active": "8b5fe44c58382dbb",
   "lastOpenFiles": [
+    "Cursos/Untitled",
+    "Cursos/JavaScript/images/Pasted image 20260810142324.png",
+    "Cursos/JavaScript/images",
+    "Cursos/JavaScript/Document Object Model (DOM).md",
     "Welcome.md",
-    "Cursos/JavaScript/DOM.md",
     "React.md",
     "Cursos/JavaScript",
     "Cursos",
