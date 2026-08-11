@@ -10,3 +10,5 @@ window.innerHeight; // retorna a altura do browser
 
 ![[Pasted image 20260810142324.png]]
 
+What is the Document Object Model (DOM)?
+-   A tree-structured representation of an HTML document.
