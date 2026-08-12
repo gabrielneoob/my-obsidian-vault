@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Node/Back-end.md",
+                "file": "Cursos/Node/Servidor-Simples/Response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Back-end"
+              "title": "Response"
             }
           }
         ]
@@ -192,8 +192,22 @@
   },
   "active": "525511479b229a9a",
   "lastOpenFiles": [
-    "Cursos/JavaScript/Document Object Model (DOM).md",
+    "Cursos/Node/Servidor-Simples/Request.md",
+    "Cursos/Node/Servidor-Simples/Response.md",
+    "Cursos/Node/Untitled.md",
+    "Cursos/Node/Servidor-Simples/createServer.md",
     "Cursos/Node/Back-end.md",
+    "Cursos/Node/Servidor-Simples",
+    "Cursos/JavaScript/Maps & Sets/JavaScript Maps and Sets Review.md",
+    "Cursos/JavaScript/Maps & Sets/Maps.md",
+    "Cursos/JavaScript/Maps & Sets/Sets.md",
+    "Cursos/JavaScript/Maps & Sets",
+    "Cursos/JavaScript/Document Object Model (DOM).md",
+    "Cursos/JavaScript/Client-Side Storage and CRUD Operations/SessionStorage.md",
+    "Cursos/JavaScript/Client-Side Storage and CRUD Operations/localStorage.md",
+    "Cursos/JavaScript/Client-Side Storage and CRUD Operations/CRUD.md",
+    "Cursos/JavaScript/Client-Side Storage and CRUD Operations/Cookies.md",
+    "Cursos/JavaScript/Client-Side Storage and CRUD Operations",
     "Cursos/Node",
     "Cursos/Untitled",
     "Cursos/JavaScript/images/Pasted image 20260810142324.png",

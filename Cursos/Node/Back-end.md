@@ -89,3 +89,35 @@ app.get("/session", (req, res) => {
 });
 
 ```
+
+## Password
+
+Gerar e validar uma chave derivada (DK).
+```js
+// Pepper + Salt + Password + Scrypt
+password.generate("P@s$w0rd");
+// 8fd29c8ee66d1ff9d
+
+password.validate("P@s$w0rd", "8fd29c8ee66d1ff9d");
+// true
+```
+## Validar
+
+Validar e formatar dados.
+```js
+app.post("/login", (req, res) => {
+  const email = validate.email(req.body.email);
+  const password = validate.password(req.body.password);
+});
+```
+
+## Mail
+
+Enviar emails.
+```js
+mail.send({
+  to: "teste@example.com",
+  subject: "Resetar Senha",
+  body: `Use o link para resetar a sua senha: ${link}`,
+});
+```
