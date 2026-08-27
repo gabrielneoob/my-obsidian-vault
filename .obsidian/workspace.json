@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Node/Servidor-Simples/Response.md",
+                "file": "Cursos/Csharp/OOP/Método.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Response"
+              "title": "Método"
             }
           }
         ]
@@ -192,8 +192,21 @@
   },
   "active": "525511479b229a9a",
   "lastOpenFiles": [
-    "Cursos/Node/Servidor-Simples/Request.md",
+    "Cursos/Csharp/OOP/Exercicios.md",
+    "Cursos/Csharp/OOP/Método.md",
+    "Cursos/Csharp/OOP/Classes, Atributos e Métodos.md",
+    "Pasted image 20260827140341.png",
+    "Pasted image 20260827135824.png",
+    "Cursos/Csharp/While.md",
+    "Cursos/Csharp/OOP",
+    "Cursos/Csharp/Funções.md",
+    "Cursos/Csharp/Exercicios.md",
+    "Cursos/Csharp/Entrada de dados em C#.md",
+    "Cursos/Csharp/Saída de dados em C#.md",
+    "Cursos/Csharp/Conversão Implicita e Casting.md",
     "Cursos/Node/Servidor-Simples/Response.md",
+    "Cursos/Csharp",
+    "Cursos/Node/Servidor-Simples/Request.md",
     "Cursos/Node/Untitled.md",
     "Cursos/Node/Servidor-Simples/createServer.md",
     "Cursos/Node/Back-end.md",
@@ -209,14 +222,12 @@
     "Cursos/JavaScript/Client-Side Storage and CRUD Operations/Cookies.md",
     "Cursos/JavaScript/Client-Side Storage and CRUD Operations",
     "Cursos/Node",
-    "Cursos/Untitled",
     "Cursos/JavaScript/images/Pasted image 20260810142324.png",
     "Cursos/JavaScript/images",
     "Welcome.md",
     "React.md",
     "Cursos/JavaScript",
     "Cursos",
-    "Untitled.base",
-    "auto-sync.py"
+    "Untitled.base"
   ]
 }
