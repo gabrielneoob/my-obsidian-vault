@@ -11,14 +11,12 @@
             "id": "d5d0ceb3d4f57419",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cursos/Csharp/OOP/Ordem para implementação de membros.md",
-                "mode": "source",
-                "source": false
+                "file": "Cursos/Csharp/docs/03-recapitulacao-de-logica-de-programacao.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ordem para implementação de membros"
+              "icon": "lucide-file-text",
+              "title": "03-recapitulacao-de-logica-de-programacao"
             }
           }
         ]
@@ -192,6 +190,13 @@
   },
   "active": "d5d0ceb3d4f57419",
   "lastOpenFiles": [
+    "Cursos/Csharp/docs/07-topicos-especiais-parte1.pdf",
+    "Cursos/Csharp/docs/06-memoria-arrays-listas.pdf",
+    "Cursos/Csharp/docs/05-construtores-this-sobrecarga-encapsulamento.pdf",
+    "Cursos/Csharp/docs/04-classes-atributos-metodos-static.pdf",
+    "Cursos/Csharp/OOP/Ordem para implementação de membros.md",
+    "Cursos/Csharp/docs/03-recapitulacao-de-logica-de-programacao.pdf",
+    "Cursos/Csharp/docs",
     "Cursos/Csharp/Enumerações e Composições/Composição.md",
     "Cursos/Csharp/Enumerações e Composições/Categoria de classes.md",
     "Pasted image 20260903190846.png",
@@ -217,7 +222,6 @@
     "Pasted image 20260830113940.png",
     "Pasted image 20260830111415.png",
     "Pasted image 20260830110819.png",
-    "Cursos/Csharp/OOP/Ordem para implementação de membros.md",
     "Cursos/Csharp/Comportamento de memória, arrays, listas",
     "Cursos/Csharp/OOP/Modificadores de acesso.md",
     "Pasted image 20260829122829.png",
@@ -229,14 +233,8 @@
     "Cursos/Csharp/OOP/Método.md",
     "Cursos/Csharp/OOP/Properties.md",
     "Cursos/Csharp/OOP/this.md",
-    "Cursos/Csharp/OOP/Sobrecarga.md",
     "Pasted image 20260827204419.png",
     "Cursos/Csharp/OOP",
-    "Cursos/Csharp",
-    "Cursos/Node/Servidor-Simples",
-    "Cursos/JavaScript/Maps & Sets",
-    "Cursos/JavaScript/Client-Side Storage and CRUD Operations",
-    "Cursos/Node",
-    "Cursos/JavaScript/images"
+    "Cursos/Csharp"
   ]
 }
