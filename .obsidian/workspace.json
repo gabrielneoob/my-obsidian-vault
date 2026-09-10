@@ -11,12 +11,14 @@
             "id": "d5d0ceb3d4f57419",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cursos/Csharp/docs/08-enumeracoes-composicao.pdf"
+                "file": "Cursos/Csharp/Herança e Polimorfismo/Introdução ao polimorfismo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "08-enumeracoes-composicao"
+              "icon": "lucide-file",
+              "title": "Introdução ao polimorfismo"
             }
           }
         ]
@@ -81,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 333.5
   },
   "right": {
     "id": "72ec92e553c8bacf",
@@ -190,13 +192,17 @@
   },
   "active": "d5d0ceb3d4f57419",
   "lastOpenFiles": [
+    "Cursos/Csharp/Herança e Polimorfismo/Sobreposição ou sobrescrita.md",
+    "Cursos/Csharp/Herança e Polimorfismo/Upscasting e Downcasting.md",
+    "Cursos/Csharp/Herança e Polimorfismo/Introdução ao polimorfismo.md",
     "Cursos/Csharp/docs/09-heranca-polimorfismo.pdf",
     "Cursos/Csharp/Herança e Polimorfismo/Herança.md",
+    "Cursos/Csharp/Herança e Polimorfismo/Classes e métodos selados.md",
+    "Cursos/Csharp/docs/08-enumeracoes-composicao.pdf",
     "Cursos/Csharp/docs/03-recapitulacao-de-logica-de-programacao.pdf",
     "Cursos/Csharp/Enumerações e Composições/Categoria de classes.md",
     "Cursos/Csharp/Enumerações e Composições/Composição.md",
     "Cursos/Csharp/Enumerações e Composições/Enumerações.md",
-    "Cursos/Csharp/docs/08-enumeracoes-composicao.pdf",
     "Cursos/Csharp/Herança e Polimorfismo",
     "Cursos/Csharp/docs/07-topicos-especiais-parte1.pdf",
     "Cursos/Csharp/docs/06-memoria-arrays-listas.pdf",
@@ -230,10 +236,6 @@
     "Pasted image 20260829122719.png",
     "Cursos/Csharp/OOP/Construtores.md",
     "Cursos/Csharp/OOP/Encapsulamento.md",
-    "Cursos/Csharp/OOP/Exercicios.md",
-    "Cursos/Csharp/OOP/Membros Estáticos.md",
-    "Cursos/Csharp/OOP/Método.md",
-    "Cursos/Csharp/OOP/Properties.md",
     "Pasted image 20260827204419.png"
   ]
 }
