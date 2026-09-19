@@ -5,6 +5,8 @@
 
 ## Polimorfismo
 
+Polimorfismo é a capacidade de objetos de tipos diferentes responderem à mesma "mensagem" (mesmo método/interface) de formas distintas, cada um com sua própria implementação.
+
 Em Programação Orientada a Objetos(OOP), polimorfismo é recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos diferentes, tendo assim comportamentos diferentes conforme cada tipo específico
 
 Polimorfismo é um dos quatro pilares da OOP (junto com encapsulamento, herança e abstração). A ideia central: **um mesmo método pode se comportar de forma diferente dependendo do objeto que o chama**.
