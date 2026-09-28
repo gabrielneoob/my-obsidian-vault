@@ -1,0 +1,3 @@
+R: Foi uma arquitetura escolhida pelo time, e o principal ganho acredito que era autonomia: pq cada squad cuidava do seu serviço e podia fazer deploy sem depender dos outros, além de poder escalar só o serviço que precisava.
+
+O custo era de infraestrutura, porque cada serviço tinha seu próprio banco e sua própria pipeline de CI/CD, e também suas complexidades: as chamadas entre serviços podem falhar, e um erro pode passar por vários serviços, o que deixa o debug mais difícil

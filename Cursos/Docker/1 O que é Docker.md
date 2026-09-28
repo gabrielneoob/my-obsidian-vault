@@ -1,0 +1,5 @@
+- Docker vai nos permitir a executar uma aplicação em um ambiente isolado(container);
+- O que executar dentro de um container:
+	- Um banco de dados
+	- Uma api
+	- Qualquer serviço que rode como processo

@@ -1,0 +1,1 @@
+Injeção de dependência é a classe receber o que precisa em vez de criar. No Nest, eu marco a classe com `@Injectable()`, registro nos `providers` do módulo e declaro no construtor.

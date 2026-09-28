@@ -1,0 +1,1 @@
+R: Através de requisições sincronas, quando precisa da resposta na hora, como HTTP(GET,PUT,POST,DELETE). Ou com requisições assincronas com filas

@@ -1,0 +1,2 @@
+
+No squad de Catálogo, o trabalho no dia a dia era criar e manter endpoints REST que buscavam dados direto do banco do nosso microsserviço, para o front consumir. Por exemplo, endpoint de listagem de produtos, de detalhe do produto, de preço e estoque. Seguia a estrutura em camadas: o controller recebia a requisição, o service tinha a regra, e o repository buscava no banco com Prisma.
