@@ -23,3 +23,18 @@ Uma url pode reaproveitar varios metodos, porém não pode repetir o mesmo méto
 ![[Pasted image 20260921163939.png]]
 
 API é uma interface que expõe funcionalidades ou dados de um sistema, permitindo que outros sistemas (ou o frontend) interajam com ele sem precisar conhecer os detalhes internos de implementação.
+
+Api é responsável por levar o pedido e depois trazer a resposta para o usuário
+
+![[Pasted image 20261007162436.png]]
+
+Por que APIs existem?
+- Padronizar a comunicação entre sistemas
+- Facilitar integrações
+- Permitir que front e back evoluam de forma independente
+- Segurança -> só expõe o que pode ser acessado
+- Reutilização -> vários apps podem usar a mesma API
+
+enpoint é uma rota disponivel na api
+
+api atua como transporte entre o cliente e o servidor

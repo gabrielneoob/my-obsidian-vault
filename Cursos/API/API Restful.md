@@ -43,3 +43,4 @@ Aqui tudo é `POST` e a "ação" fica no nome do endpoint, em vez de usar o verb
 |Estrutura|Livre|Recursos + verbos HTTP + stateless|
 
 Na prática, quando alguém fala "API" no contexto web hoje em dia, na maioria das vezes está se referindo a uma API REST (ou algo que tenta ser), mas nem toda API HTTP é de fato RESTful — muita gente usa o termo de forma solta pra descrever qualquer API JSON sobre HTTP, mesmo sem seguir todos os princípios do Fielding.
+

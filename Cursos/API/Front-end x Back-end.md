@@ -1,0 +1,3 @@
+**Front-end** é tudo aquilo que o usuário vê e interage, exemplo: uma aplicação web online, onde o usuário pode interagir com botões, textos e etc...
+
+**Back-end** é geralmente tudo aquilo que o usuário final não consegue ver, geralmente é responsável para armazenar e manusear dados em um banco de dados, assim como fazer requisições aplicações terceiras. Criar Apis
